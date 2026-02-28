@@ -50,11 +50,11 @@ I build weird, useful, and sometimes slightly unhinged tech projects. From autom
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rororova&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rororova&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rororova&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rororova&layout=compact&theme=tokyonight)
 
 ---
 
