@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I am ROROROVA
 
-Builder | Full Stack Dev | AI Explorer | Vibecode Enjoyer
+Builder | Full Stack Dev | AI Explorer | Agentic coding Enjoyer
 
 I build weird, useful, and sometimes slightly unhinged tech projects. From automation experiments to AI models and mobile apps — I like shipping things.
 
