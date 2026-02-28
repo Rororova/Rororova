@@ -47,7 +47,7 @@ I build weird, useful, and sometimes slightly unhinged tech projects. From autom
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![n8n](https://img.sheild.io/badge/n8n-oange?logo=n8n)
 ---
 
 ## 📊 GitHub Stats
