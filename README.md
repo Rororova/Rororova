@@ -1,67 +1,71 @@
-# Hey, I'm Nikhil 👋
-### Rororova · Full stack developer · AI explorer · Agentic coding enjoyer
+<p align="center">
+  <picture>
+  <source media="(max-width: 600px)" srcset="./assets/workbench-mobile.svg" />
+  <img src="./assets/workbench.svg" width="100%" alt="Nikhil, @rororova. Curiosity has too many tabs. A personal workbench for web, mobile, AI and simulation." />
+  </picture>
+</p>
 
-I build weird, useful, and sometimes slightly unhinged tech projects—from mobile apps and web tools to automation experiments and AI ideas.
+<p align="center">
+  <a href="https://nikhilthakuraan.in/"><strong>my corner of the internet ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#a-few-tabs-i-left-open">the projects</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#the-stuff-i-reach-for">the toolbox</a>
+</p>
 
-I like turning “what if?” into something you can actually use.
+<br>
 
-[Website](https://nikhilthakuraan.in/) · [Explore my repositories](https://github.com/Rororova?tab=repositories)
+### Hey, I'm Nikhil.
 
-## What I'm into
+I make things because an idea gets stuck in my head, or because something small is annoying enough to fix. That can mean hiding YouTube recommendations. It can also mean seeing how six simulated drones coordinate when their radios stop cooperating. Apparently, both belong in the same GitHub account.
 
-- **Mobile & web apps:** fast, minimal interfaces and mobile-first products.
-- **AI experiments:** exploring LLMs, model training, and agentic coding.
-- **Automation:** taking repetitive tasks and making them run themselves.
-- **Shipping:** turning random ideas into working products, then improving them.
+I like the whole process: figuring out what something should do, making the interface feel right, and getting the less glamorous bits underneath to behave. Web apps, mobile apps, little utilities, AI experiments—I'll follow the problem wherever it goes.
 
-## On my workbench
+AI is part of how I build. I'm also still learning the systems underneath, breaking things, and finding out which of my “quick ideas” are absolutely not quick.
 
-- Building experimental projects with React Native and Supabase.
-- Going deeper into LLM architecture and scalable backend systems.
-- Improving my system design and UI/UX skills.
+<br>
 
-## Tech stack
+## A few tabs I left open
 
-**Languages**
+<p align="center">
+  <a href="https://github.com/Rororova/embernet"><img src="./assets/embernet.svg" width="400" alt="EMBERNET: a simulated drone swarm for fire and survivor response." /></a>
+  <a href="https://github.com/Rororova/Qawali"><img src="./assets/qawali.svg" width="400" alt="Qawali: mirror Windows audio to a second physical output." /></a>
+  <a href="https://github.com/Rororova/Don-t-recommend-"><img src="./assets/dont-recommend.svg" width="400" alt="Don't recommend: hide YouTube recommendation surfaces." /></a>
+  <a href="https://github.com/Rororova/financial-literacy-club"><img src="./assets/finance.svg" width="400" alt="Financial Literacy Club: interactive finance learning tools." /></a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<sub>Different sizes of problem. Same urge to make something work. Click a card to look around.</sub>
 
+<details>
+<summary><strong>A little more about what's under the hood</strong></summary>
 
-**Frontend**
+- **[EMBERNET](https://github.com/Rororova/embernet):** six PX4-controlled aircraft in NVIDIA Isaac Sim, each with its own incident memory. They share evidence over a lossy mesh and keep making decisions when a radio link breaks. It's simulation work; real flight is still ahead.
+- **[Qawali](https://github.com/Rororova/Qawali):** a React interface, a companion widget, and a native WASAPI engine for mirroring the Windows audio mix to one other output.
+- **[Don't recommend](https://github.com/Rororova/Don-t-recommend-):** a Manifest V3 extension for Chrome and Edge that hides feeds, Up next, Shorts, and other recommendation surfaces while keeping search and subscriptions usable.
+- **[Financial Literacy Club](https://github.com/Rororova/financial-literacy-club):** Next.js, interactive compounding and inflation explainers, custom SVG charts, and a React Three Fiber scene.
+- **[Geotagger](https://github.com/Rororova/Geotagger):** a smaller Python utility that turns a photo's embedded GPS data into a readable location overlay.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</details>
 
-**Backend & DB**
+<br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## The stuff I reach for
 
-**Tools**
+| For the thing on screen | For the thing underneath |
+| :--- | :--- |
+| React · Next.js · TypeScript | Python · Node.js · PostgreSQL |
+| React Native · Expo | Supabase · Firebase |
+| CSS · Figma · a lot of tweaking | Git · automation · whatever the problem needs |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+Lately, the rabbit holes have included simulation, native Windows audio, and making complicated ideas easier to explore on screen.
 
-## GitHub activity
+<br>
 
-![Nikhil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rororova&show_icons=true&theme=tokyonight)
+> I want to build something insanely useful. Until then, there's always another idea worth trying.
 
-![Most used languages across public repositories](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rororova&layout=compact&theme=tokyonight)
-
-## What I'm working toward
-
-Build something insanely useful. Ship more than I overthink. Contribute to open source.
-
----
-
-I experiment with tech until it breaks—then figure out how to make it better.
+<p align="center">
+  <br>
+  <a href="https://nikhilthakuraan.in/">Come see what I'm making ↗</a>
+  <br><br>
+  <sub>NIKHIL / ROROROVA &nbsp; · &nbsp; still figuring things out, still building.</sub>
+</p>
