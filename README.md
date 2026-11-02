@@ -68,7 +68,9 @@ I started with apps and web tools. Then the projects started asking for browser 
   <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,powershell&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, Python, C++, PowerShell" /></a>
 </p>
 
-Also: `SQL`
+<p>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+</p>
 
 #### web, mobile & interfaces
 
@@ -76,7 +78,10 @@ Also: `SQL`
   <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark&amp;perline=8" alt="React, Next.js, HTML, CSS, Tailwind CSS, Vite" /></a>
 </p>
 
-Also building with `React Native` and `Expo`.
+<p>
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" />
+</p>
 
 #### 3D, motion & data on screen
 
@@ -84,7 +89,10 @@ Also building with `React Native` and `Expo`.
   <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=threejs,d3&amp;theme=dark&amp;perline=8" alt="Three.js and D3.js" /></a>
 </p>
 
-Plus `React Three Fiber` and `GSAP`.
+<p>
+  <img alt="React Three Fiber" src="https://img.shields.io/badge/React%20Three%20Fiber-20232A?style=flat-square" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-42820b?style=flat-square&amp;logo=gsap&amp;logoColor=white" />
+</p>
 
 #### APIs, databases & backend
 
@@ -98,7 +106,13 @@ Plus `React Three Fiber` and `GSAP`.
   <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=pytorch&amp;theme=dark&amp;perline=8" alt="PyTorch" /></a>
 </p>
 
-`ONNX` · `Ultralytics` · `NumPy` · `pandas` · `Modal`
+<p>
+  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white" />
+  <img alt="Ultralytics" src="https://img.shields.io/badge/Ultralytics-111F68?style=flat-square" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" />
+  <img alt="Modal" src="https://img.shields.io/badge/Modal-356b35?style=flat-square" />
+</p>
 
 #### simulation & native systems
 
@@ -106,7 +120,14 @@ Plus `React Three Fiber` and `GSAP`.
   <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=windows&amp;theme=dark&amp;perline=8" alt="Windows" /></a>
 </p>
 
-`NVIDIA Isaac Sim` · `PX4` · `MAVLink` · `Win32` · `WASAPI` · `WebView2`
+<p>
+  <img alt="NVIDIA Isaac Sim" src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-5d8f00?style=flat-square&amp;logo=nvidia&amp;logoColor=white" />
+  <img alt="PX4" src="https://img.shields.io/badge/PX4-234864?style=flat-square" />
+  <img alt="MAVLink" src="https://img.shields.io/badge/MAVLink-234864?style=flat-square" />
+  <img alt="Win32" src="https://img.shields.io/badge/Win32-305f9c?style=flat-square" />
+  <img alt="WASAPI" src="https://img.shields.io/badge/WASAPI-305f9c?style=flat-square" />
+  <img alt="WebView2" src="https://img.shields.io/badge/WebView2-305f9c?style=flat-square" />
+</p>
 
 #### automation, testing & tools
 
@@ -114,7 +135,12 @@ Plus `React Three Fiber` and `GSAP`.
   <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vitest,discord&amp;theme=dark&amp;perline=8" alt="Git, GitHub, VS Code, Figma, Vitest, Discord" /></a>
 </p>
 
-`Puppeteer` · `discord.py` · `n8n` · `pytest`
+<p>
+  <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-287d54?style=flat-square&amp;logo=puppeteer&amp;logoColor=white" />
+  <img alt="discord.py" src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" />
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" />
+</p>
 
 <sub>A toolbox collected one project at a time. Still adding to it.</sub>
 
