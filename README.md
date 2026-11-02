@@ -1,23 +1,26 @@
-## Hi there 👋
-# I am NIKHIL (ROROROVA)
+# Hey, I'm Nikhil 👋
+### Rororova · Full stack developer · AI explorer · Agentic coding enjoyer
 
-Builder | Full Stack Dev | AI Explorer | Agentic coding Enjoyer
+I build weird, useful, and sometimes slightly unhinged tech projects—from mobile apps and web tools to automation experiments and AI ideas.
 
-I build weird, useful, and sometimes slightly unhinged tech projects. From automation experiments to AI models and mobile apps — I like shipping things.
+I like turning “what if?” into something you can actually use.
 
----
+[Website](https://nikhilthakuraan.in/) · [Explore my repositories](https://github.com/Rororova?tab=repositories)
 
-## About Me
+## What I'm into
 
-- Currently building cool experimental projects
-- Working with React Native & Supabase
-- Exploring LLMs & AI training
-- Interested in automation (Roblox, web tools, random chaos)
-- Love turning random ideas into working products
+- **Mobile & web apps:** fast, minimal interfaces and mobile-first products.
+- **AI experiments:** exploring LLMs, model training, and agentic coding.
+- **Automation:** taking repetitive tasks and making them run themselves.
+- **Shipping:** turning random ideas into working products, then improving them.
 
----
+## On my workbench
 
-## Tech Stack
+- Building experimental projects with React Native and Supabase.
+- Going deeper into LLM architecture and scalable backend systems.
+- Improving my system design and UI/UX skills.
+
+## Tech stack
 
 **Languages**
 
@@ -48,67 +51,17 @@ I build weird, useful, and sometimes slightly unhinged tech projects. From autom
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
----
 
-## 📊 GitHub Stats
+## GitHub activity
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rororova&show_icons=true&theme=tokyonight)
+![Nikhil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rororova&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rororova&layout=compact&theme=tokyonight)
+![Most used languages across public repositories](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rororova&layout=compact&theme=tokyonight)
 
----
+## What I'm working toward
 
-## What I Like Building
-
-- Fast & minimal apps
-- AI experiments
-- Mobile-first products
-- Automation tools
-- Frontend-heavy web projects
+Build something insanely useful. Ship more than I overthink. Contribute to open source.
 
 ---
 
-## Currently Learning
-
-- LLM architecture deeper
-- Scalable backend systems
-- Advanced system design
-- Better UI/UX thinking
-
----
-
-## Goals
-
-- Build something insanely useful
-- Ship more than I overthink
-- Create one viral project
-- Contribute to open source
-
----
-
-## Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rororova)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://nikhilthakuraan.in/)
-
----
-
-## Fun Fact
-
-I don't just learn tech — I experiment with it until it breaks (then fix it better).
-
-
-<!--
-**Rororova/Rororova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I experiment with tech until it breaks—then figure out how to make it better.
