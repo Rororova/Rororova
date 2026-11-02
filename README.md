@@ -2,6 +2,13 @@
 <p align="center"><strong>rororova on the internet. usually making something.</strong></p>
 
 <p align="center">
+  <a href="https://discord.com/users/1460302264139776168"><img src="https://api.statusbadges.me/badge/status/1460302264139776168?style=flat-square" alt="Current Discord status" /></a>
+  <img src="https://api.statusbadges.me/badge/playing/1460302264139776168?style=flat-square" alt="Currently playing" />
+  <img src="https://api.statusbadges.me/badge/vscode/1460302264139776168?style=flat-square" alt="VS Code activity shared through Discord" />
+  <a href="https://api.statusbadges.me/openspotify/1460302264139776168"><img src="https://api.statusbadges.me/badge/spotify/1460302264139776168?style=flat-square" alt="Currently listening on Spotify" /></a>
+</p>
+
+<p align="center">
   <img alt="full stack" src="https://img.shields.io/badge/full%20stack-303b55?style=flat-square" />
   <img alt="mobile apps" src="https://img.shields.io/badge/mobile%20apps-303b55?style=flat-square" />
   <img alt="AI & agents" src="https://img.shields.io/badge/AI%20%26%20agents-574575?style=flat-square" />
