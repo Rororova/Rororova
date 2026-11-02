@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="82" viewBox="0 0 720 82" role="img" aria-labelledby="title desc">
+<title id="title">What's going on in Nikhil's head</title>
+<desc id="desc">Small annoyance? Probably a new repo. Currently down a simulation rabbit hole. Yes, the quick idea got complicated. Still learning, still building, still curious.</desc>
+<style>.fallback{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.fallback{display:inline}}</style>
+<rect width="720" height="82" rx="10" fill="#0d1117"/>
+<g font-family="Consolas,monospace" font-size="23" fill="#a5d6ff">
+<text x="22" y="49" fill="#d2a8ff">❯</text>
+<text class="fallback" x="52" y="49">still curious. still building.</text>
+<g class="motion">
+<g>
+<defs><clipPath id="typing-smallannoya"><rect x="52" y="0" width="0" height="82"><animate attributeName="width" values="0;473;473;0;0" keyTimes="0;.105;.205;.245;1" dur="16s" begin="0s" repeatCount="indefinite"/></rect></clipPath></defs><text x="52" y="49" clip-path="url(#typing-smallannoya)">small annoyance? probably a new repo.</text>
+<rect x="52" y="29" width="2" height="25" fill="#d2a8ff" opacity="0">
+<animate attributeName="x" values="52;525;525;52;52" keyTimes="0;.105;.205;.245;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.24;.245;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+</rect></g>
+<g>
+<defs><clipPath id="typing-currentlydo"><rect x="52" y="0" width="0" height="82"><animate attributeName="width" values="0;510;510;0;0" keyTimes="0;.105;.205;.245;1" dur="16s" begin="4s" repeatCount="indefinite"/></rect></clipPath></defs><text x="52" y="49" clip-path="url(#typing-currentlydo)">currently down a simulation rabbit hole.</text>
+<rect x="52" y="29" width="2" height="25" fill="#d2a8ff" opacity="0">
+<animate attributeName="x" values="52;562;562;52;52" keyTimes="0;.105;.205;.245;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.24;.245;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+</rect></g>
+<g>
+<defs><clipPath id="typing-yesthequi"><rect x="52" y="0" width="0" height="82"><animate attributeName="width" values="0;460;460;0;0" keyTimes="0;.105;.205;.245;1" dur="16s" begin="8s" repeatCount="indefinite"/></rect></clipPath></defs><text x="52" y="49" clip-path="url(#typing-yesthequi)">yes, the quick idea got complicated.</text>
+<rect x="52" y="29" width="2" height="25" fill="#d2a8ff" opacity="0">
+<animate attributeName="x" values="52;512;512;52;52" keyTimes="0;.105;.205;.245;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.24;.245;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+</rect></g>
+<g>
+<defs><clipPath id="typing-stilllearni"><rect x="52" y="0" width="0" height="82"><animate attributeName="width" values="0;586;586;0;0" keyTimes="0;.105;.205;.245;1" dur="16s" begin="12s" repeatCount="indefinite"/></rect></clipPath></defs><text x="52" y="49" clip-path="url(#typing-stilllearni)">still learning. still building. still curious.</text>
+<rect x="52" y="29" width="2" height="25" fill="#d2a8ff" opacity="0">
+<animate attributeName="x" values="52;638;638;52;52" keyTimes="0;.105;.205;.245;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.24;.245;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+</rect></g>
+</g></g>
+<path d="M22 72H698" stroke="#21262d"/>
+<rect class="motion" x="22" y="72" width="0" height="1" fill="#d2a8ff"><animate attributeName="width" values="0;676;0" keyTimes="0;.995;1" dur="16s" repeatCount="indefinite"/></rect>
+</svg>
