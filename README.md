@@ -65,83 +65,56 @@ I started with apps and web tools. Then the projects started asking for browser 
 #### languages I work with
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-b79b00?style=flat-square&amp;logo=javascript&amp;logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-305f9c?style=flat-square" />
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,powershell&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, Python, C++, PowerShell" /></a>
 </p>
+
+Also: `SQL`
 
 #### web, mobile & interfaces
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-171717?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" />
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0891B2?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" />
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark&amp;perline=8" alt="React, Next.js, HTML, CSS, Tailwind CSS, Vite" /></a>
 </p>
+
+Also building with `React Native` and `Expo`.
 
 #### 3D, motion & data on screen
 
 <p>
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-20232A?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" />
-  <img alt="React Three Fiber" src="https://img.shields.io/badge/React%20Three%20Fiber-20232A?style=flat-square" />
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-42820b?style=flat-square&amp;logo=gsap&amp;logoColor=white" />
-  <img alt="D3.js" src="https://img.shields.io/badge/D3.js-F6854B?style=flat-square&amp;logo=d3&amp;logoColor=white" />
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=threejs,d3&amp;theme=dark&amp;perline=8" alt="Three.js and D3.js" /></a>
 </p>
+
+Plus `React Three Fiber` and `GSAP`.
 
 #### APIs, databases & backend
 
 <p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-20232A?style=flat-square&amp;logo=express&amp;logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-20232A?style=flat-square&amp;logo=flask&amp;logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-28845b?style=flat-square&amp;logo=supabase&amp;logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-d98200?style=flat-square&amp;logo=firebase&amp;logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" />
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,supabase,firebase,postgres,sqlite&amp;theme=dark&amp;perline=8" alt="Node.js, Express, FastAPI, Flask, Supabase, Firebase, PostgreSQL, SQLite" /></a>
 </p>
 
 #### AI, models & working with data
 
 <p>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
-  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white" />
-  <img alt="Ultralytics" src="https://img.shields.io/badge/Ultralytics-111F68?style=flat-square" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" />
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" />
-  <img alt="Modal" src="https://img.shields.io/badge/Modal-356b35?style=flat-square" />
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=pytorch&amp;theme=dark&amp;perline=8" alt="PyTorch" /></a>
 </p>
+
+`ONNX` · `Ultralytics` · `NumPy` · `pandas` · `Modal`
 
 #### simulation & native systems
 
 <p>
-  <img alt="NVIDIA Isaac Sim" src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-5d8f00?style=flat-square&amp;logo=nvidia&amp;logoColor=white" />
-  <img alt="PX4" src="https://img.shields.io/badge/PX4-234864?style=flat-square" />
-  <img alt="MAVLink" src="https://img.shields.io/badge/MAVLink-234864?style=flat-square" />
-  <img alt="Win32" src="https://img.shields.io/badge/Win32-305f9c?style=flat-square" />
-  <img alt="WASAPI" src="https://img.shields.io/badge/WASAPI-305f9c?style=flat-square" />
-  <img alt="WebView2" src="https://img.shields.io/badge/WebView2-305f9c?style=flat-square" />
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=windows&amp;theme=dark&amp;perline=8" alt="Windows" /></a>
 </p>
+
+`NVIDIA Isaac Sim` · `PX4` · `MAVLink` · `Win32` · `WASAPI` · `WebView2`
 
 #### automation, testing & tools
 
 <p>
-  <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-287d54?style=flat-square&amp;logo=puppeteer&amp;logoColor=white" />
-  <img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" />
-  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" />
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-566f22?style=flat-square&amp;logo=vitest&amp;logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" />
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vitest,discord&amp;theme=dark&amp;perline=8" alt="Git, GitHub, VS Code, Figma, Vitest, Discord" /></a>
 </p>
+
+`Puppeteer` · `discord.py` · `n8n` · `pytest`
 
 <sub>A toolbox collected one project at a time. Still adding to it.</sub>
 
